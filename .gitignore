@@ -1,0 +1,5 @@
+samples/*
+modelSaves/*
+_pycache_/
+.venv/
+.idea/
